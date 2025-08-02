@@ -13,9 +13,9 @@ parte_5 = ""
 # Aquí el integrante 6 debe completar el ejercicio
 parte_6 = ""
 # La frase completa se genera concatenando las variables
-parte_7 = ""
+parte_7 = "y se puso de un color:"
 # La frase completa se genera concatenando las variables
 parte_8 = "Rojo Carmesí"
 # La frase completa se genera concatenando las variables
-frase_final = f"{parte_1} {parte_2} {parte_3} {parte_4} {parte_5} {parte_6} {" Y se puso de color: "} {parte_8}."
+frase_final = f"{parte_1} {parte_2} {parte_3} {parte_4} {parte_5} {parte_6} {parte_7} {parte_8}."
 print(frase_final)
