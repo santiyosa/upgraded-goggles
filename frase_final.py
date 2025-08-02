@@ -3,7 +3,7 @@ from random import choice
 # El líder del equipo añade su parte (la primera palabra de la frase)
 parte_1 = "Otro gatog"
 # Aquí el integrante 2 debe completar el ejercicio
-parte_2 = ""
+parte_2 = "Soy el gato"
 # Aquí el integrante 3 debe completar el ejercicio
 parte_3 = ""
 # Aquí el integrante 4 debe completar el ejercicio
