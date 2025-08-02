@@ -17,5 +17,5 @@ parte_7 = ""
 # La frase completa se genera concatenando las variables
 parte_8 = "Rojo Carmesí"
 # La frase completa se genera concatenando las variables
-frase_final = f"{parte_1} {parte_2} {parte_3} {parte_4} {parte_5} {parte_6} {parte_7} {parte_8}."
+frase_final = f"{parte_1} {parte_2} {parte_3} {parte_4} {parte_5} {parte_6} {" Y se puso de un color: "} {parte_8}."
 print(frase_final)
