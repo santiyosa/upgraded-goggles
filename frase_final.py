@@ -1,7 +1,7 @@
 # El programa solo funcionará una vez que todas las variables estén completas y fusionadas.
 from random import choice
 # El líder del equipo añade su parte (la primera palabra de la frase)
-parte_1 = "Otro gatog"
+parte_1 = "Otro gato negro"
 # Aquí el integrante 2 debe completar el ejercicio
 parte_2 = ""
 # Aquí el integrante 3 debe completar el ejercicio
