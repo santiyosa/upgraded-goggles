@@ -1,5 +1,4 @@
 # El programa solo funcionará una vez que todas las variables estén completas y fusionadas.
-from random import choice
 # El líder del equipo añade su parte (la primera palabra de la frase)
 parte_1 = "Otro gato negro"
 # Aquí el integrante 2 debe completar el ejercicio
@@ -9,7 +8,7 @@ parte_3 = ""
 # Aquí el integrante 4 debe completar el ejercicio
 parte_4 = "mi gato se llama kiri"
 # Aquí el integrante 5 debe completar el ejercicio
-parte_5 = ""
+parte_5 = " un gato muy misifus."
 # Aquí el integrante 6 debe completar el ejercicio
 parte_6 = ""
 # La frase completa se genera concatenando las variables
