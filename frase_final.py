@@ -9,7 +9,7 @@ parte_3 = ""
 # Aquí el integrante 4 debe completar el ejercicio
 parte_4 = ""
 # Aquí el integrante 5 debe completar el ejercicio
-parte_5 = ""
+parte_5 = " un gato muy misifus."
 # Aquí el integrante 6 debe completar el ejercicio
 parte_6 = ""
 # La frase completa se genera concatenando las variables
